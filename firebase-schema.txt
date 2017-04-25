@@ -1,0 +1,53 @@
+Home
+ All ducks
+
+Profile
+ user info
+ user duckers
+
+Replies
+ duck
+ replies
+
+/users
+   user
+    uid
+    name
+    avatar
+
+/ducks
+    duckId
+        duckId
+        avatar
+        name
+        uid
+        text
+        timeStamp
+
+
+/likeCount
+    dockId
+      value
+
+/replies
+    duckId
+        replyId
+         name
+         comment
+         uid
+         timeStamp
+         avator
+
+/userDucks
+    uid
+      duckId
+        duckId
+        avatar
+        name
+        uid
+        text
+        timeStamp
+
+/userLikes
+    uid
+      duckId

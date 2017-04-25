@@ -1,0 +1,8 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "description": "react-traning redux sample",
+  "main": "index.js",
+  "author": "chen.dong <dong.chen@rea-group.com>",
+  "license": "MIT"
+}
