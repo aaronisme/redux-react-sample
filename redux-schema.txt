@@ -1,0 +1,52 @@
+{
+  user:{
+    [uid]: {
+      name,
+      avatar,
+      uid
+    }
+  },
+  ducks:{
+    [duckId]: {
+      avatar,
+      name,
+      uid,
+      text,
+      timeStamp
+    }
+  },
+ likeCount:{
+  dockId
+  value
+},
+ replies:{
+   [duckId]:[{
+     replyId,
+     name,
+     comment,
+     uid,
+    timeStamp
+    avator
+  }]
+ },
+
+ userDucks:{
+ [uid]:{
+  [duckId]: {
+          avatar
+          name
+          uid
+          text
+         timeStamp
+    }
+ }
+
+ }
+
+ userLikes:{
+    uid:{
+       duckId:false
+    }
+ }
+
+}
